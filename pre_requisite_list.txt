@@ -1,0 +1,20 @@
+CPSC 1301K,Computer Science 1,Fa Sp Su,None
+CPSC 1302,Computer Science 2,Fa Sp Su,pre-CPSC 1301K
+CPSC 2105,Computer Organization,Fa Sp Su,pre-CPSC 1301K
+CPSC 3121,Assembly I,Sp,pre-CPSC 2105
+CPSC 5155,Computer Architecture,Fa,pre-CPSC 3121
+CYBR 2159,Fundamentals of Computer Networking,Fa Sp,pre-CPSC 1301K
+CYBR 2106,Intro to Information Security,Fa Sp Su,pre-CYBR 2159
+CPSC 3131,Database Systems I,Fa Sp,pre-CPSC 1302
+MATH 1113,Pre-Calculus,Fa Sp Su,None
+MATH 2125,Intro to Discrete Math,Fa Sp Su,pre-MATH 1113
+MATH 5125,Discrete Math,Fa Sp Su,pre-MATH 2125
+CPSC 2108,Data Structures,Fa Sp Su,pre-MATH 5125,CPSC 1302
+CPSC 5157,Computer Networks,Fa Su,pre-CYBR 2159,CPSC 2108
+CPSC 3125,Operating Systems,Fa Sp,pre-CPSC 2108,CPSC 2105
+CPSC 5115,Algorithm Analysis & Design,Fa,pre-MATH 5125,CPSC 2108
+CPSC 5128,Theory of Computation,Sp,pre-CPSC 5115
+CPSC 3175,Object-Oriented Design,Fa Sp,pre-CPSC 2108
+CPSC 5135,Programming Languages,Sp,pre-CPSC 3175
+CPSC 4175,Software Engineering,Fa,pre-CPSC 3175
+CPSC 4176,Senior Software Eng. Project,Sp,pre-CPSC 4175
