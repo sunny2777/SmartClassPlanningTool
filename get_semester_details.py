@@ -58,3 +58,4 @@ def find_if_scheduled (raw_output, course_code, dag):
                     return [get_max, "Fall"]
                 elif (group[1][1] == "Spring"):
                     return [get_max, "Summer"]
+                    
